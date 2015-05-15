@@ -18,7 +18,8 @@ public class MainActivity extends Activity {
 		
 		findViewById(R.id.imageView1).setOnTouchListener(this);
 		
-		
+		System.out.println("this is ");
+		System.out.println("Here I want to make some change");
 		}
 
 	
